@@ -1,8 +1,4 @@
-streamlit
-transformer
+streamlit==1.33.0
 numpy
 pandas
-huggingface_hub
-numpy
 requests
-torch
